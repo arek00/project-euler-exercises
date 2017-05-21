@@ -1,4 +1,4 @@
-package com.arek00.projecteuler
+package com.arek00.projecteuler.naive
 
 import scala.collection.mutable.ArrayBuffer
 
